@@ -1,0 +1,7 @@
+supplier_id,supplier_name,sku,lead_time_days,moq
+SUP-01,LogiTech Logistics Inc,SKU-101,5,50
+SUP-01,LogiTech Logistics Inc,SKU-102,3,40
+SUP-02,Apex Display Solutions,SKU-103,7,20
+SUP-03,ConnectX Peripherals,SKU-104,2,50
+SUP-02,Apex Display Solutions,SKU-105,4,30
+SUP-03,ConnectX Peripherals,SKU-106,3,25

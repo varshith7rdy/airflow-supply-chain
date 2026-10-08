@@ -1,0 +1,24 @@
+# Environment
+.venv/
+env/
+venv/
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Airflow local runtime files
+airflow.db
+airflow.cfg
+webserver_config.py
+logs/
+*.log
+*.pid
+
+# Data and pipeline outputs
+output/purchase_orders/*.csv
+output/logs/*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
